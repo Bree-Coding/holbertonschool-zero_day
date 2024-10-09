@@ -1,2 +1,1 @@
-My first readme !
-I'm still trying !
+My first readme still trying
